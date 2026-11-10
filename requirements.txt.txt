@@ -1,7 +1,0 @@
-streamlit
-feedparser
-pandas
-numpy
-plotly
-yfinance
-anthropic
